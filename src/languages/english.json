@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "Back": "Back",
+        "Signin": {
+            "emailPlaceholder": "Email Address",
+            "passwordPlaceholder": "Password",
+            "signin": "Signin",
+            "forgotPassowrd": "Forgot password?"
+        },
+        "Branch": {
+            "chooseBranch": "Choose branch"
+        },
+        "ForgotPassword": {
+            "btnConfirm": "Submit"
+        },
+        "Home": {}
+    }
+}

@@ -1,0 +1,70 @@
+# C/C++ build system timings
+generate_cxx_metadata
+  create-invalidation-state 355ms
+  generate-prefab-packages
+    exec-prefab 540ms
+  generate-prefab-packages completed in 545ms
+  execute-generate-process
+    exec-configure 149ms
+    [gap of 37ms]
+  execute-generate-process completed in 186ms
+  [gap of 123ms]
+generate_cxx_metadata completed in 1224ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 44ms]
+  create-invalidation-state 987ms
+  generate-prefab-packages
+    [gap of 26ms]
+    exec-prefab 1878ms
+    [gap of 13ms]
+  generate-prefab-packages completed in 1917ms
+  execute-generate-process
+    exec-configure 440ms
+    [gap of 117ms]
+  execute-generate-process completed in 558ms
+  [gap of 216ms]
+generate_cxx_metadata completed in 3873ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 24ms]
+  create-invalidation-state 590ms
+  generate-prefab-packages
+    exec-prefab 710ms
+  generate-prefab-packages completed in 722ms
+  execute-generate-process
+    exec-configure 216ms
+    [gap of 78ms]
+  execute-generate-process completed in 296ms
+  [gap of 143ms]
+  write-metadata-json-to-file 16ms
+generate_cxx_metadata completed in 1813ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  create-invalidation-state 477ms
+  generate-prefab-packages
+    exec-prefab 639ms
+  generate-prefab-packages completed in 652ms
+  execute-generate-process
+    exec-configure 216ms
+    [gap of 70ms]
+  execute-generate-process completed in 286ms
+  [gap of 148ms]
+generate_cxx_metadata completed in 1612ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  create-invalidation-state 392ms
+  generate-prefab-packages
+    exec-prefab 652ms
+  generate-prefab-packages completed in 659ms
+  execute-generate-process
+    exec-configure 234ms
+    [gap of 50ms]
+  execute-generate-process completed in 284ms
+  [gap of 124ms]
+generate_cxx_metadata completed in 1477ms
+

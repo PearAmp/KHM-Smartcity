@@ -1,0 +1,86 @@
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 96ms]
+  create-invalidation-state 688ms
+  generate-prefab-packages
+    [gap of 29ms]
+    exec-prefab 915ms
+    [gap of 13ms]
+  generate-prefab-packages completed in 957ms
+  execute-generate-process
+    exec-configure 1630ms
+    [gap of 256ms]
+  execute-generate-process completed in 1886ms
+  [gap of 40ms]
+  remove-unexpected-so-files 12ms
+  [gap of 316ms]
+  write-metadata-json-to-file 42ms
+generate_cxx_metadata completed in 4060ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 60ms]
+  create-invalidation-state 477ms
+  generate-prefab-packages
+    [gap of 14ms]
+    exec-prefab 625ms
+  generate-prefab-packages completed in 648ms
+  execute-generate-process
+    exec-configure 438ms
+    [gap of 146ms]
+  execute-generate-process completed in 585ms
+  [gap of 196ms]
+  write-metadata-json-to-file 17ms
+generate_cxx_metadata completed in 2003ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 99ms]
+  create-invalidation-state 580ms
+  generate-prefab-packages
+    [gap of 25ms]
+    exec-prefab 697ms
+    [gap of 11ms]
+  generate-prefab-packages completed in 733ms
+  execute-generate-process
+    exec-configure 548ms
+    [gap of 178ms]
+  execute-generate-process completed in 726ms
+  [gap of 236ms]
+  write-metadata-json-to-file 21ms
+generate_cxx_metadata completed in 2445ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 139ms]
+  create-invalidation-state 535ms
+  generate-prefab-packages
+    [gap of 23ms]
+    exec-prefab 805ms
+    [gap of 13ms]
+  generate-prefab-packages completed in 841ms
+  execute-generate-process
+    exec-configure 1369ms
+    [gap of 229ms]
+  execute-generate-process completed in 1598ms
+  [gap of 238ms]
+  write-metadata-json-to-file 19ms
+generate_cxx_metadata completed in 3393ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 72ms]
+  create-invalidation-state 600ms
+  generate-prefab-packages
+    [gap of 23ms]
+    exec-prefab 778ms
+    [gap of 15ms]
+  generate-prefab-packages completed in 816ms
+  execute-generate-process
+    exec-configure 352ms
+    [gap of 209ms]
+  execute-generate-process completed in 561ms
+  [gap of 210ms]
+  write-metadata-json-to-file 31ms
+generate_cxx_metadata completed in 2352ms
+

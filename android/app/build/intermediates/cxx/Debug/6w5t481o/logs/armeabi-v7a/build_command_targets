@@ -1,0 +1,11 @@
+/Users/jet/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/jet/Desktop/work2023/order-pro-application/android/app/.cxx/Debug/6w5t481o/armeabi-v7a \
+  appmodules \
+  react_codegen_RNDateTimePickerCGen \
+  react_codegen_RNImagePickerSpec \
+  react_codegen_rnasyncstorage \
+  react_codegen_rngesturehandler_codegen \
+  react_codegen_rnscreens \
+  react_codegen_rnsvg \
+  react_codegen_safeareacontext

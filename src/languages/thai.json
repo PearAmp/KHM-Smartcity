@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "Back": "ย้อนกลับ",
+        "Signin": {
+            "emailPlaceholder": "Email Address",
+            "passwordPlaceholder": "Password",
+            "signin": "เข้าสู่ระบบ",
+            "forgotPassowrd": "ลืมรหัสผ่าน?"
+        },
+        "Branch": {
+            "chooseBranch": "เลือกคลังสินค้า"
+        },
+        "ForgotPassword": {
+            "btnConfirm": "ตกลง"
+        },
+        "Home": {}
+    }
+}
