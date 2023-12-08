@@ -95,6 +95,9 @@ class EditProfileScreen extends Component {
         <View style={styles.vContainerPage}>
           <View style={styles.boxImg}>
             <Image source={moks.profile} style={styles.imgProfile} />
+            <TouchableOpacity>
+            <Image source={icons.camera} style={styles.iconcamera} />
+            </TouchableOpacity>
           </View>
           <View style={styles.form}>
             <InputAunt label="ชื่อ" placeholder="ดีดีดี" input={styles.input} />

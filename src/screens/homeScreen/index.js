@@ -17,7 +17,13 @@ import styles from "./styles";
 import Container from "../../components/Container";
 import { colors } from "../../constants/colors";
 import { withTranslation } from "react-i18next";
-import { logos, moks, tabmenu, topicicons } from "../../constants/images";
+import {
+  icons,
+  logos,
+  moks,
+  tabmenu,
+  topicicons,
+} from "../../constants/images";
 import BlockItem from "../../components/BlockItem";
 import Post from "../../components/Post";
 
@@ -178,8 +184,8 @@ class HomeScreen extends Component {
                 <Image style={styles.logos} source={logos.textlogo} />
                 <TouchableWithoutFeedback
                   onPress={() => {
-                    this.props.navigation.navigate("ProfileStack", {
-                      screen: "Setting",
+                    this.props.navigation.navigate("SettingStack", {
+                      screen: "SettingPage",
                     });
                   }}
                 >
@@ -231,6 +237,7 @@ class HomeScreen extends Component {
                     screen: "PostScreen",
                   });
                 }}
+                iconheart={icons.heart}
               />
               <View style={{ marginTop: 20 }}>
                 <Post
@@ -239,6 +246,7 @@ class HomeScreen extends Component {
                       screen: "PostScreen",
                     });
                   }}
+                  iconheart={icons.heart}
                 />
               </View>
               <View style={{ marginTop: 20 }}>
@@ -248,6 +256,7 @@ class HomeScreen extends Component {
                       screen: "PostScreen",
                     });
                   }}
+                  iconheart={icons.heart}
                 />
               </View>
             </View>

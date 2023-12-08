@@ -61,5 +61,15 @@ export const icons = {
   plus: require(`../../assets/images/icons/plus-gray.png`),
   close: require(`../../assets/images/icons/close.png`),
   redheart: require(`../../assets/images/icons/redheart.png`),
-
+  camera: require(`../../assets/images/icons/camera.png`),
+  language: require(`../../assets/images/icons/language.png`),
+  darkmode: require(`../../assets/images/icons/night-mode.png`),
+  map: require(`../../assets/images/icons/map.png`),
+  info: require(`../../assets/images/icons/info.png`),
+  support: require(`../../assets/images/icons/support.png`),
+  update: require(`../../assets/images/icons/updating.png`),
+  lock: require(`../../assets/images/icons/padlock.png`),
+  arrowRight: require(`../../assets/images/icons/next.png`),
+  warn: require(`../../assets/images/icons/warning.png`),
+  noti: require(`../../assets/images/icons/notificate.png`),
 };

@@ -44,7 +44,7 @@ export default class Post extends Component {
         <Text style={styles.txtPost}>สวยสมชื่อ....................</Text>
 
         <View style={styles.like}>
-          <Image source={icons.heart} style={styles.icons} />
+          <Image source={this.props.iconheart} style={styles.icons} />
         </View>
       </View>
       </TouchableWithoutFeedback>

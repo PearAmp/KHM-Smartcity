@@ -13,11 +13,11 @@ import {
   Switch,
 } from "react-native";
 import styles from "./styles";
-import Container from "../../components/Container";
-import { colors } from "../../constants/colors";
-import { withTranslation } from "react-i18next";
 
-class SettingScreen extends Component {
+import { withTranslation } from "react-i18next";
+import Container from "../../../components/Container";
+
+class SupportScreen extends Component {
   constructor() {
     super();
     this.state = {};
@@ -55,11 +55,11 @@ class SettingScreen extends Component {
     return (
       <Container>
         <View style={styles.vContainerPage}>
-          <Text>SettingScreen</Text>
+          <Text>SupportScreen</Text>
         </View>
       </Container>
     );
   }
 }
 
-export default withTranslation()(SettingScreen);
+export default withTranslation()(SupportScreen);

@@ -21,6 +21,7 @@ import Header from "../../components/Header";
 import { SearchBar } from "react-native-elements";
 import Search from "../../components/Search";
 import Post from "../../components/Post";
+import { icons } from "../../constants/images";
 class SearchScreen extends Component {
   constructor() {
     super();
@@ -63,8 +64,7 @@ class SearchScreen extends Component {
           onPressBack={() => {
             this.props.navigation.goBack();
           }}
-          arrow={{display: 'none'}}
-          
+          arrow={{ display: "none" }}
         />
         <View style={styles.vContainerPage}>
           <ScrollView showsVerticalScrollIndicator={false}>
@@ -79,6 +79,7 @@ class SearchScreen extends Component {
                       screen: "PostScreen",
                     });
                   }}
+                  iconheart={icons.heart}
                 />
               </View>
               <View style={{ marginBottom: 20 }}>
@@ -88,6 +89,7 @@ class SearchScreen extends Component {
                       screen: "PostScreen",
                     });
                   }}
+                  iconheart={icons.heart}
                 />
               </View>
               <View style={{ marginBottom: 20 }}>
@@ -97,6 +99,7 @@ class SearchScreen extends Component {
                       screen: "PostScreen",
                     });
                   }}
+                  iconheart={icons.heart}
                 />
               </View>
             </View>

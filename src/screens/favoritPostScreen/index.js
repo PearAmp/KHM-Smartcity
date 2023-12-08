@@ -11,11 +11,16 @@ import {
   TouchableWithoutFeedback,
   Modal,
   Switch,
+  FlatList,
+  ScrollView
 } from "react-native";
 import styles from "./styles";
 import Container from "../../components/Container";
 import { colors } from "../../constants/colors";
 import { withTranslation } from "react-i18next";
+import Header from "../../components/Header";
+import Post from "../../components/Post";
+import { icons } from "../../constants/images";
 
 class FavoritPostScreen extends Component {
   constructor() {
@@ -52,10 +57,35 @@ class FavoritPostScreen extends Component {
   };
 
   render() {
+  
     return (
       <Container>
+        <Header
+          title="โพสต์ที่ฉันถูกใจ"
+          onPressBack={() => {
+            this.props.navigation.goBack();
+          }}
+        />
         <View style={styles.vContainerPage}>
-          <Text>FavoritPostScreen</Text>
+        <ScrollView showsVerticalScrollIndicator={false}>
+       <View style={styles.bottom}>
+       <View style={{marginVertical: 10}}>
+          <Post iconheart={icons.redheart} />
+          </View>
+          <View style={{marginVertical: 10}}>
+          <Post iconheart={icons.redheart} />
+          </View>
+          <View style={{marginVertical: 10}}>
+          <Post iconheart={icons.redheart} />
+          </View>
+          <View style={{marginVertical: 10}}>
+          <Post iconheart={icons.redheart} />
+          </View>
+          <View style={{marginVertical: 10}}>
+          <Post iconheart={icons.redheart} />
+          </View>
+       </View>
+        </ScrollView>
         </View>
       </Container>
     );

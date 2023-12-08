@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libappmodules.so"
+			"path" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libappmodules.so"
 		}
 	],
 	"backtrace" : 3,
@@ -94,7 +94,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
 				},
 				{
 					"backtrace" : 6,
@@ -395,15 +395,15 @@
 		},
 		{
 			"backtrace" : 5,
-			"id" : "react_codegen_RNDateTimePickerCGen::@59b70ddc31ba2f8ef1d2"
-		},
-		{
-			"backtrace" : 5,
 			"id" : "react_codegen_RNDatePickerSpecs::@c00f981c6e74346c63d4"
 		},
 		{
 			"backtrace" : 5,
 			"id" : "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "react_codegen_RNDateTimePickerCGen::@59b70ddc31ba2f8ef1d2"
 		},
 		{
 			"backtrace" : 5,
@@ -437,152 +437,152 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/fabricjni/libs/android.x86/libfabricjni.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/fabricjni/libs/android.x86_64/libfabricjni.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_newarchdefaults/libs/android.x86/libreact_newarchdefaults.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_newarchdefaults/libs/android.x86_64/libreact_newarchdefaults.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_componentregistry/libs/android.x86/libreact_render_componentregistry.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_componentregistry/libs/android.x86_64/libreact_render_componentregistry.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_legacyviewmanagerinterop/libs/android.x86/librrc_legacyviewmanagerinterop.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_legacyviewmanagerinterop/libs/android.x86_64/librrc_legacyviewmanagerinterop.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/runtimeexecutor/libs/android.x86/libruntimeexecutor.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/runtimeexecutor/libs/android.x86_64/libruntimeexecutor.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_rnasyncstorage.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_rnasyncstorage.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_RNDateTimePickerCGen.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_RNDateTimePickerCGen.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_RNDatePickerSpecs.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_RNDatePickerSpecs.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_rngesturehandler_codegen.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_rngesturehandler_codegen.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_RNImagePickerSpec.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_RNImagePickerSpec.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_safeareacontext.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_safeareacontext.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_rnscreens.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_rnscreens.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_rnsvg.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_rnsvg.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86/libreact_codegen_RNVectorIconsSpec.so",
+				"fragment" : "/Users/jet/Desktop/pear/KHsmartCity/android/app/build/intermediates/cxx/Debug/6l161g65/obj/x86_64/libreact_codegen_RNVectorIconsSpec.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_mapbuffer/libs/android.x86/libreact_render_mapbuffer.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_mapbuffer/libs/android.x86_64/libreact_render_mapbuffer.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/folly_runtime/libs/android.x86_64/libfolly_runtime.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/glog/libs/android.x86/libglog.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/glog/libs/android.x86_64/libglog.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_codegen_rncore/libs/android.x86_64/libreact_codegen_rncore.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_debug/libs/android.x86_64/libreact_debug.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_nativemodule_core/libs/android.x86_64/libreact_nativemodule_core.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_core/libs/android.x86_64/libreact_render_core.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_debug/libs/android.x86_64/libreact_render_debug.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_graphics/libs/android.x86_64/libreact_render_graphics.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/react_render_imagemanager/libs/android.x86_64/libreact_render_imagemanager.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_image/libs/android.x86_64/librrc_image.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/rrc_view/libs/android.x86_64/librrc_view.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/turbomodulejsijni/libs/android.x86_64/libturbomodulejsijni.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/yoga/libs/android.x86/libyoga.so",
+				"fragment" : "/Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab/modules/yoga/libs/android.x86_64/libyoga.so",
 				"role" : "libraries"
 			},
 			{

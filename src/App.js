@@ -29,6 +29,7 @@ import TopicStackScreen from "./navigations/topicStackScreen";
 import MainTabStackScreen from "./navigations/maintabStackScreen";
 import PostStackScreen from "./navigations/postStackScreen";
 import ProfileStackScreen from "./navigations/profileStackScreen";
+import SettingStackScreen from "./navigations/settingStackScreen";
 
 /* Navigations */
 
@@ -119,21 +120,22 @@ export default class App extends Component<props> {
                 name="RegisStack"
                 component={RegisterStackScreen}
               />
-               <RootStack.Screen
+              <RootStack.Screen
                 name="TopicStack"
                 component={TopicStackScreen}
               />
-               <RootStack.Screen
+              <RootStack.Screen
                 name="MainTabStack"
                 component={MainTabStackScreen}
               />
-                <RootStack.Screen
-                name="PostStack"
-                component={PostStackScreen}
-              />
-                <RootStack.Screen
+              <RootStack.Screen name="PostStack" component={PostStackScreen} />
+              <RootStack.Screen
                 name="ProfileStack"
                 component={ProfileStackScreen}
+              />
+              <RootStack.Screen
+                name="SettingStack"
+                component={SettingStackScreen}
               />
             </RootStack.Navigator>
             <Toast ref={(ref) => Toast.setRef(ref)} />

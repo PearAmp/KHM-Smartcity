@@ -17,6 +17,13 @@ export default StyleSheet.create({
   input: {
     borderRadius: 10,
   },
+  iconcamera: {
+    width: 20,
+    height: 20,
+    position: "absolute",
+    bottom: 0,
+    right: 5,
+  },
   boxlike: {
     backgroundColor: colors.white,
     padding: 10,
@@ -47,14 +54,15 @@ export default StyleSheet.create({
     display: "flex",
     flexDirection: "row",
     justifyContent: "center",
+    position: "relative",
   },
   buttonStyle: {
-    borderRadius: 10
+    borderRadius: 10,
   },
   bottom: {
-    display: 'flex',
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    marginVertical: 30
-  }
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-around",
+    marginVertical: 30,
+  },
 });

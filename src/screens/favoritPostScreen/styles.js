@@ -6,12 +6,15 @@ const { width, height } = Dimensions.get("window");
 export default StyleSheet.create({
   vContainerPage: {
     width: width,
-    height: height * 0.9,
+    height: height,
     // minHeight: '72%',
     position: "relative",
     backgroundColor: colors.base,
-    padding: 20,
+    paddingHorizontal: 20
     // justifyContent: "center",
     // alignItems: "center"
   },
+  bottom: {
+    marginBottom: 100
+  }
 });
