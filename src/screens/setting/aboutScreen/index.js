@@ -11,11 +11,14 @@ import {
   TouchableWithoutFeedback,
   Modal,
   Switch,
+  ScrollView,
 } from "react-native";
 import styles from "./styles";
 
 import { withTranslation } from "react-i18next";
 import Container from "../../../components/Container";
+import Header from "../../../components/Header";
+import { icons } from "../../../constants/images";
 
 class AboutScreen extends Component {
   constructor() {
@@ -54,8 +57,28 @@ class AboutScreen extends Component {
   render() {
     return (
       <Container>
+        <Header title="เกี่ยวกับเรา" onPressBack={() => {
+          this.props.navigation.goBack();
+        }} />
         <View style={styles.vContainerPage}>
-          <Text>AboutScreen</Text>
+          <ScrollView>
+            <View style={styles.box}>
+              <Text style={styles.txtlabel}>เวอร์ชั่นที่ใช้อยู่</Text>
+              <Text style={styles.txtvertion}>13.19.1</Text>
+            </View>
+            <TouchableWithoutFeedback>
+              <View style={styles.box}>
+                <Text style={styles.txtlabel}>ข้อกำหนดการใช้บริการ</Text>
+                <Image source={icons.arrowRight} style={styles.icons} />
+              </View>
+            </TouchableWithoutFeedback>
+            <TouchableWithoutFeedback>
+              <View style={styles.box}>
+                <Text style={styles.txtlabel}>ประกาศทางกฎหมาย</Text>
+                <Image source={icons.arrowRight} style={styles.icons} />
+              </View>
+            </TouchableWithoutFeedback>
+          </ScrollView>
         </View>
       </Container>
     );

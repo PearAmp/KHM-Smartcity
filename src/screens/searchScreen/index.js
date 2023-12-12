@@ -69,7 +69,7 @@ class SearchScreen extends Component {
         <View style={styles.vContainerPage}>
           <ScrollView showsVerticalScrollIndicator={false}>
             <View style={{ paddingVertical: 10 }}>
-              <Search />
+              <Search placeholder='ค้นหาโพสต์' />
             </View>
             <View style={styles.boxPost}>
               <View style={{ marginBottom: 20 }}>

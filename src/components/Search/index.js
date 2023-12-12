@@ -28,7 +28,7 @@ export default class Search extends Component {
       <View style={styles.search}>
         <TextInput
           style={[styles.input, this.props.input]}
-          placeholder="ค้นหาโพสต์"
+          placeholder={this.props.placeholder}
           keyboardType={this.props.keyboardType}
         />
         <Image source={icons.search} style={styles.icons} />

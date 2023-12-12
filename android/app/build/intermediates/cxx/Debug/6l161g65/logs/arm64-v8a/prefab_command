@@ -15,7 +15,7 @@
   --ndk-version \
   23 \
   --output \
-  /var/folders/9g/dn2csgh10zn7qxjqtkd3vf3c0000gn/T/agp-prefab-staging16522075869210278825/staged-cli-output \
+  /var/folders/9g/dn2csgh10zn7qxjqtkd3vf3c0000gn/T/agp-prefab-staging12690872151413186594/staged-cli-output \
   /Users/jet/.gradle/caches/transforms-3/c89beba49bda3c7ff0db4787685e5ed7/transformed/jetified-react-android-0.72.3-debug/prefab \
   /Users/jet/.gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/prefab \
   /Users/jet/.gradle/caches/transforms-3/430a607cf6d546758ce98bd168677a7b/transformed/jetified-hermes-android-0.72.3-debug/prefab

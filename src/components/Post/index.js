@@ -36,7 +36,7 @@ export default class Post extends Component {
           <View style={styles.boximg}>
             <Image source={moks.kh} style={styles.imgPost} />
             <View style={styles.vflex}>
-              <Image source={icons.map} />
+              <Image source={icons.map} style={styles.map} />
               <Text style={styles.txtlocate}>วัดล้านขวด</Text>
             </View>
           </View>
@@ -124,4 +124,8 @@ const styles = StyleSheet.create({
     fontSize: 14,
     paddingTop: 10
   },
+  map: {
+    width: 15,
+    height: 15
+  }
 });

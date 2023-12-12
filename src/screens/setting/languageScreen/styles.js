@@ -6,12 +6,26 @@ const { width, height } = Dimensions.get("window");
 export default StyleSheet.create({
   vContainerPage: {
     width: width,
-    height: height,
+    height: '100%',
     // minHeight: '72%',
     position: "relative",
     backgroundColor: colors.base,
-    paddingHorizontal: 20
+
     // justifyContent: "center",
     // alignItems: "center"
   },
+  boxlang: {
+    borderBottomWidth: 0.5,
+    borderBottomColor: colors.label,
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 20
+  },
+  boxradio: {
+    backgroundColor: 'transparant',
+    borderWidth: 0
+  }
+
 });

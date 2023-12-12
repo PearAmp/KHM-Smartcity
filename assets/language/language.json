@@ -1,404 +1,1188 @@
-"Mandarin Chinese"
-"German"
-"Russian"
-"French"
-"English"
-"Japanese"
-"Spanish"
-"Italian"
-"Korean"
-"Vietnamese"
-"Dutch"
-"Esperanto"
-"Portuguese"
-"Turkish"
-"Hebrew"
-"Hungarian"
-"Modern Greek (1453-)"
-"Indonesian"
-"Arabic"
-"Egyptian Arabic"
-"Finnish"
-"Bulgarian"
-"Yue Chinese"
-"Swedish"
-"Ukrainian"
-"Belarusian"
-"Quechua"
-"Czech"
-"Swahili (individual language)"
-"Norwegian Nynorsk"
-"Wu Chinese"
-"Norwegian Bokmål"
-"Standard Malay"
-"Estonian"
-"Georgian"
-"Polish"
-"Latin"
-"Urdu"
-"Albanian"
-"Icelandic"
-"Western Frisian"
-"Afrikaans"
-"Romanian"
-"Faroese"
-"Sanskrit"
-"Breton"
-"Tatar"
-"Yiddish"
-"Uighur"
-"Uzbek"
-"Serbian"
-"Quenya"
-"Danish"
-"Iranian Persian"
-"Slovak"
-"Basque"
-"CycL"
-"Mesopotamian Arabic"
-"Tagalog"
-"Standard Latvian"
-"Kazakh"
-"Armenian"
-"Hindi"
-"Lithuanian"
-"Bengali"
-"Catalan"
-"Bosnian"
-"Croatian"
-"Thai"
-"Old Russian"
-"Chamorro"
-"Mongolian"
-"Literary Chinese"
-"Sicilian"
-"Irish"
-"Macedonian"
-"Slovenian"
-"Middle French (ca. 1400-1600)"
-"Galician"
-"Volapük"
-"Ainu (Japan)"
-"Lojban"
-"Toki Pona"
-"Interlingua (International Auxiliary Language Association)"
-"Low German"
-"Malayalam"
-"Klingon"
-"Romansh"
-"Luxembourgish"
-"Ossetian"
-"Ido"
-"Scottish Gaelic"
-"Maltese"
-"Scots"
-"Asturian"
-"Javanese"
-"Occitan (post 1500)"
-"Interlingue"
-"Ottoman Turkish (1500-1928)"
-"Kalmyk"
-"Telugu"
-"Sindarin"
-"Novial"
-"Central Khmer"
-"Tok Pisin"
-"Old English (ca. 450-1100)"
-"Azerbaijani"
-"Tajik"
-"Turkmen"
-"Chuvash"
-"Upper Sorbian"
-"Lower Sorbian"
-"Tibetan"
-"Northern Sami"
-"Welsh"
-"Maori"
-"Kölsch"
-"Northern Kurdish"
-"Ewe"
-"Kabyle"
-"Berber languages"
-"Tupí"
-"Udmurt"
-"Ladin"
-"Piemontese"
-"Ladino"
-"Guarani"
-"Malagasy"
-"Xhosa"
-"Western Panjabi"
-"Ancient Greek (to 1453)"
-"Haitian"
-"Lao"
-"Nepali (individual language)"
-"Cornish"
-"Nahuatl"
-"Kotava"
-"Marathi"
-"Gujarati"
-"Panjabi"
-"Kirghiz"
-"Erzya"
-"Prussian"
-"Sumerian"
-"Seselwa Creole French"
-"Chukot"
-"Bashkir"
-"Malay (individual language)"
-"Hiligaynon"
-"Chavacano"
-"Cherokee"
-"Navajo"
-"Lakota"
-"Middle English (1100-1500)"
-"Algerian Arabic"
-"Lingala"
-"Abkhazian"
-"Picard"
-"Romany"
-"Swiss German"
-"Tamil"
-"Zulu"
-"Awadhi"
-"Walloon"
-"Amharic"
-"Bavarian"
-"Ancient Hebrew"
-"Eastern Mari"
-"Bhojpuri"
-"Western Mari"
-"Central Kurdish"
-"Old Saxon"
-"Pfaelzisch"
-"Mambae"
-"Shona"
-"Marshallese"
-"Hausa"
-"Kannada"
-"Nogai"
-"Sinhala"
-"Manx"
-"Dungan"
-"Kalaallisut"
-"Liv"
-"Võro"
-"North Levantine Arabic"
-"Judeo-Tat"
-"Friulian"
-"Chechen"
-"Hawaiian"
-"Yoruba"
-"Crimean Tatar"
-"Pennsylvania German"
-"Pipil"
-"Kinyarwanda"
-"Shuswap"
-"Mon"
-"Tetum"
-"Yakut"
-"Kumyk"
-"Ngeq"
-"Nyanja"
-"Pushto"
-"Fiji Hindi"
-"Burmese"
-"Mohawk"
-"Wolof"
-"Tigrinya"
-"Tonga (Tonga Islands)"
-"Laz"
-"Old Aramaic (up to 700 BCE)"
-"Ganda"
-"Bodo (India)"
-"Old Norse"
-"Hmong Daw"
-"Hakka Chinese"
-"Orizaba Nahuatl"
-"Guerrero Nahuatl"
-"Buriat"
-"Aymara"
-"Venetian"
-"Igbo"
-"Tokelau"
-"Bambara"
-"Khasi"
-"Cebuano"
-"Louisiana Creole"
-"Pulaar"
-"Samoan"
-"Gagauz"
-"Lingua Franca Nova"
-"Aragonese"
-"Umbundu"
-"Tuvinian"
-"Khakas"
-"Ojibwa"
-"Cuyonon"
-"Urhobo"
-"Coastal Kadazan"
-"Pampanga"
-"Sardinian"
-"Lombard"
-"Swabian"
-"Moksha"
-"Gilbertese"
-"Sindhi"
-"Tsonga"
-"Southern Sotho"
-"Zaza"
-"Tswana"
-"Palauan"
-"Somali"
-"Emilian"
-"Adyghe"
-"Assamese"
-"Oriya (macrolanguage)"
-"Kadazan Dusun"
-"Choctaw"
-"North Moluccan Malay"
-"Kamba (Kenya)"
-"Niuean"
-"Sango"
-"Iloko"
-"Kara-Kalpak"
-"Nigerian Fulfulde"
-"Central Huasteca Nahuatl"
-"Ho"
-"Iban"
-"Garhwali"
-"Sundanese"
-"Waray (Philippines)"
-"Tagal Murut"
-"Papiamento"
-"Moroccan Arabic"
-"Keningau Murut"
-"Kashubian"
-"Pangasinan"
-"Corsican"
-"Tarifit"
-"Kekchí"
-"Karachay-Balkar"
-"Assyrian Neo-Aramaic"
-"Balinese"
-"Swati"
-"Tuvalu"
-"Morisyen"
-"Tahitian"
-"Baybayanon"
-"Central Bikol"
-"Hmong Njua"
-"Nauru"
-"Tase Naga"
-"Gulf Arabic"
-"K'iche'"
-"Minangkabau"
-"Temuan"
-"Madurese"
-"Banjar"
-"Maithili"
-"Jinyu Chinese"
-"Gothic"
-"Xiang Chinese"
-"Gan Chinese"
-"Talossan"
-"Dutton World Speedwords"
-"Láadan"
-"Afrihili"
-"Samogitian"
-"Karelian"
-"Veps"
-"Rusyn"
-"Talysh"
-"Mi'kmaq"
-"Extremaduran"
-"Ingrian"
-"Southern Sami"
-"Jamaican Creole English"
-"Central Mnong"
-"Mirandese"
-"Komi-Zyrian"
-"Komi-Permyak"
-"Bislama"
-"Eastern Canadian Inuktitut"
-"Rundi"
-"Evenki"
-"Central Okinawan"
-"Manchu"
-"Uab Meto"
-"Old Turkish"
-"Kashmiri"
-"Gheg Albanian"
-"Aklanon"
-"Yucateco"
-"Tachawit"
-"Kven Finnish"
-"Gronings"
-"Fijian"
-"Tahaggart Tamahaq"
-"Standard Moroccan Tamazight"
-"Guadeloupean Creole French"
-"Cayuga"
-"Mingrelian"
-"Tigre"
-"Dhivehi"
-"Ligurian"
-"Rapanui"
-"Hunsrik"
-"Chinese Pidgin English"
-"Northeastern Thai"
-"Ga"
-"Jewish Babylonian Aramaic (ca. 200-1200 CE)"
-"Sichuan Yi"
-"Latgalian"
-"Brithenig"
-"Classical Syriac"
-"Erromintxela"
-"Goan Konkani"
-"Chagatai"
-"Old Spanish"
-"Saterfriesisch"
-"Northern Frisian"
-"Old French (842-ca. 1400)"
-"Nyunga"
-"Tonga (Zambia)"
-"Newari"
-"Phoenician"
-"Jewish Palestinian Aramaic"
-"Rendille"
-"Drents"
-"Chinook jargon"
-"Pali"
-"Southern Subanen"
-"Baluchi"
-"Northern Haida"
-"Southern Haida"
-"Mikasuki"
-"South Levantine Arabic"
-"Karakhanid"
-"Pahlavi"
-"Plains Cree"
-"Manipuri"
-"Lushootseed"
-"Libyan Arabic"
-"Tohono O'odham"
-"Southern Kurdish"
-"Old Frisian"
-"Nuer"
-"Kirmanjki (individual language)"
-"Dimli (individual language)"
-"Qashqa'i"
-"Southern Altai"
-"Mahasu Pahari"
-"Turkic Khalaj"
-"Creek"
-"Sranan Tongo"
-"Wayuu"
-"Limburgan"
-"Zeeuws"
-"Tachelhit"
-"Mono (USA)"
-"Berom"
-"Santali"
-"Silesian"
-"Interglossa"
+[
+    {
+        "lang": "Mandarin Chinese"
+    },
+    {
+        "lang": "German"
+    },
+    {
+        "lang": "Russian"
+    },
+    {
+        "lang": "French"
+    },
+    {
+        "lang": "English"
+    },
+    {
+        "lang": "Japanese"
+    },
+    {
+        "lang": "Spanish"
+    },
+    {
+        "lang": "Italian"
+    },
+    {
+        "lang": "Korean"
+    },
+    {
+        "lang": "Vietnamese"
+    },
+    {
+        "lang": "Dutch"
+    },
+    {
+        "lang": "Esperanto"
+    },
+    {
+        "lang": "Portuguese"
+    },
+    {
+        "lang": "Turkish"
+    },
+    {
+        "lang": "Hebrew"
+    },
+    {
+        "lang": "Hungarian"
+    },
+    {
+        "lang": "Modern Greek (1453-)"
+    },
+    {
+        "lang": "Indonesian"
+    },
+    {
+        "lang": "Arabic"
+    },
+    {
+        "lang": "Egyptian Arabic"
+    },
+    {
+        "lang": "Finnish"
+    },
+    {
+        "lang": "Bulgarian"
+    },
+    {
+        "lang": "Yue Chinese"
+    },
+    {
+        "lang": "Swedish"
+    },
+    {
+        "lang": "Ukrainian"
+    },
+    {
+        "lang": "Belarusian"
+    },
+    {
+        "lang": "Quechua"
+    },
+    {
+        "lang": "Czech"
+    },
+    {
+        "lang": "Swahili (individual language)"
+    },
+    {
+        "lang": "Norwegian Nynorsk"
+    },
+    {
+        "lang": "Wu Chinese"
+    },
+    {
+        "lang": "Norwegian Bokmål"
+    },
+    {
+        "lang": "Standard Malay"
+    },
+    {
+        "lang": "Estonian"
+    },
+    {
+        "lang": "Georgian"
+    },
+    {
+        "lang": "Polish"
+    },
+    {
+        "lang": "Latin"
+    },
+    {
+        "lang": "Urdu"
+    },
+    {
+        "lang": "Albanian"
+    },
+    {
+        "lang": "Icelandic"
+    },
+    {
+        "lang": "Western Frisian"
+    },
+    {
+        "lang": "Afrikaans"
+    },
+    {
+        "lang": "Romanian"
+    },
+    {
+        "lang": "Faroese"
+    },
+    {
+        "lang": "Sanskrit"
+    },
+    {
+        "lang": "Breton"
+    },
+    {
+        "lang": "Tatar"
+    },
+    {
+        "lang": "Yiddish"
+    },
+    {
+        "lang": "Uighur"
+    },
+    {
+        "lang": "Uzbek"
+    },
+    {
+        "lang": "Serbian"
+    },
+    {
+        "lang": "Quenya"
+    },
+    {
+        "lang": "Danish"
+    },
+    {
+        "lang": "Iranian Persian"
+    },
+    {
+        "lang": "Slovak"
+    },
+    {
+        "lang": "Basque"
+    },
+    {
+        "lang": "CycL"
+    },
+    {
+        "lang": "Mesopotamian Arabic"
+    },
+    {
+        "lang": "Tagalog"
+    },
+    {
+        "lang": "Standard Latvian"
+    },
+    {
+        "lang": "Kazakh"
+    },
+    {
+        "lang": "Armenian"
+    },
+    {
+        "lang": "Hindi"
+    },
+    {
+        "lang": "Lithuanian"
+    },
+    {
+        "lang": "Bengali"
+    },
+    {
+        "lang": "Catalan"
+    },
+    {
+        "lang": "Bosnian"
+    },
+    {
+        "lang": "Croatian"
+    },
+    {
+        "lang": "Thai"
+    },
+    {
+        "lang": "Old Russian"
+    },
+    {
+        "lang": "Chamorro"
+    },
+    {
+        "lang": "Mongolian"
+    },
+    {
+        "lang": "Literary Chinese"
+    },
+    {
+        "lang": "Sicilian"
+    },
+    {
+        "lang": "Irish"
+    },
+    {
+        "lang": "Macedonian"
+    },
+    {
+        "lang": "Slovenian"
+    },
+    {
+        "lang": "Middle French (ca. 1400-1600)"
+    },
+    {
+        "lang": "Galician"
+    },
+    {
+        "lang": "Volapük"
+    },
+    {
+        "lang": "Ainu (Japan)"
+    },
+    {
+        "lang": "Lojban"
+    },
+    {
+        "lang": "Toki Pona"
+    },
+    {
+        "lang": "Interlingua (International Auxiliary Language Association)"
+    },
+    {
+        "lang": "Low German"
+    },
+    {
+        "lang": "Malayalam"
+    },
+    {
+        "lang": "Klingon"
+    },
+    {
+        "lang": "Romansh"
+    },
+    {
+        "lang": "Luxembourgish"
+    },
+    {
+        "lang": "Ossetian"
+    },
+    {
+        "lang": "Ido"
+    },
+    {
+        "lang": "Scottish Gaelic"
+    },
+    {
+        "lang": "Maltese"
+    },
+    {
+        "lang": "Scots"
+    },
+    {
+        "lang": "Asturian"
+    },
+    {
+        "lang": "Javanese"
+    },
+    {
+        "lang": "Occitan (post 1500)"
+    },
+    {
+        "lang": "Interlingue"
+    },
+    {
+        "lang": "Ottoman Turkish (1500-1928)"
+    },
+    {
+        "lang": "Kalmyk"
+    },
+    {
+        "lang": "Telugu"
+    },
+    {
+        "lang": "Sindarin"
+    },
+    {
+        "lang": "Novial"
+    },
+    {
+        "lang": "Central Khmer"
+    },
+    {
+        "lang": "Tok Pisin"
+    },
+    {
+        "lang": "Old English (ca. 450-1100)"
+    },
+    {
+        "lang": "Azerbaijani"
+    },
+    {
+        "lang": "Tajik"
+    },
+    {
+        "lang": "Turkmen"
+    },
+    {
+        "lang": "Chuvash"
+    },
+    {
+        "lang": "Upper Sorbian"
+    },
+    {
+        "lang": "Lower Sorbian"
+    },
+    {
+        "lang": "Tibetan"
+    },
+    {
+        "lang": "Northern Sami"
+    },
+    {
+        "lang": "Welsh"
+    },
+    {
+        "lang": "Maori"
+    },
+    {
+        "lang": "Kölsch"
+    },
+    {
+        "lang": "Northern Kurdish"
+    },
+    {
+        "lang": "Ewe"
+    },
+    {
+        "lang": "Kabyle"
+    },
+    {
+        "lang": "Berber languages"
+    },
+    {
+        "lang": "Tupí"
+    },
+    {
+        "lang": "Udmurt"
+    },
+    {
+        "lang": "Ladin"
+    },
+    {
+        "lang": "Piemontese"
+    },
+    {
+        "lang": "Ladino"
+    },
+    {
+        "lang": "Guarani"
+    },
+    {
+        "lang": "Malagasy"
+    },
+    {
+        "lang": "Xhosa"
+    },
+    {
+        "lang": "Western Panjabi"
+    },
+    {
+        "lang": "Ancient Greek (to 1453)"
+    },
+    {
+        "lang": "Haitian"
+    },
+    {
+        "lang": "Lao"
+    },
+    {
+        "lang": "Nepali (individual language)"
+    },
+    {
+        "lang": "Cornish"
+    },
+    {
+        "lang": "Nahuatl"
+    },
+    {
+        "lang": "Kotava"
+    },
+    {
+        "lang": "Marathi"
+    },
+    {
+        "lang": "Gujarati"
+    },
+    {
+        "lang": "Panjabi"
+    },
+    {
+        "lang": "Kirghiz"
+    },
+    {
+        "lang": "Erzya"
+    },
+    {
+        "lang": "Prussian"
+    },
+    {
+        "lang": "Sumerian"
+    },
+    {
+        "lang": "Seselwa Creole French"
+    },
+    {
+        "lang": "Chukot"
+    },
+    {
+        "lang": "Bashkir"
+    },
+    {
+        "lang": "Malay (individual language)"
+    },
+    {
+        "lang": "Hiligaynon"
+    },
+    {
+        "lang": "Chavacano"
+    },
+    {
+        "lang": "Cherokee"
+    },
+    {
+        "lang": "Navajo"
+    },
+    {
+        "lang": "Lakota"
+    },
+    {
+        "lang": "Middle English (1100-1500)"
+    },
+    {
+        "lang": "Algerian Arabic"
+    },
+    {
+        "lang": "Lingala"
+    },
+    {
+        "lang": "Abkhazian"
+    },
+    {
+        "lang": "Picard"
+    },
+    {
+        "lang": "Romany"
+    },
+    {
+        "lang": "Swiss German"
+    },
+    {
+        "lang": "Tamil"
+    },
+    {
+        "lang": "Zulu"
+    },
+    {
+        "lang": "Awadhi"
+    },
+    {
+        "lang": "Walloon"
+    },
+    {
+        "lang": "Amharic"
+    },
+    {
+        "lang": "Bavarian"
+    },
+    {
+        "lang": "Ancient Hebrew"
+    },
+    {
+        "lang": "Eastern Mari"
+    },
+    {
+        "lang": "Bhojpuri"
+    },
+    {
+        "lang": "Western Mari"
+    },
+    {
+        "lang": "Central Kurdish"
+    },
+    {
+        "lang": "Old Saxon"
+    },
+    {
+        "lang": "Pfaelzisch"
+    },
+    {
+        "lang": "Mambae"
+    },
+    {
+        "lang": "Shona"
+    },
+    {
+        "lang": "Marshallese"
+    },
+    {
+        "lang": "Hausa"
+    },
+    {
+        "lang": "Kannada"
+    },
+    {
+        "lang": "Nogai"
+    },
+    {
+        "lang": "Sinhala"
+    },
+    {
+        "lang": "Manx"
+    },
+    {
+        "lang": "Dungan"
+    },
+    {
+        "lang": "Kalaallisut"
+    },
+    {
+        "lang": "Liv"
+    },
+    {
+        "lang": "Võro"
+    },
+    {
+        "lang": "North Levantine Arabic"
+    },
+    {
+        "lang": "Judeo-Tat"
+    },
+    {
+        "lang": "Friulian"
+    },
+    {
+        "lang": "Chechen"
+    },
+    {
+        "lang": "Hawaiian"
+    },
+    {
+        "lang": "Yoruba"
+    },
+    {
+        "lang": "Crimean Tatar"
+    },
+    {
+        "lang": "Pennsylvania German"
+    },
+    {
+        "lang": "Pipil"
+    },
+    {
+        "lang": "Kinyarwanda"
+    },
+    {
+        "lang": "Shuswap"
+    },
+    {
+        "lang": "Mon"
+    },
+    {
+        "lang": "Tetum"
+    },
+    {
+        "lang": "Yakut"
+    },
+    {
+        "lang": "Kumyk"
+    },
+    {
+        "lang": "Ngeq"
+    },
+    {
+        "lang": "Nyanja"
+    },
+    {
+        "lang": "Pushto"
+    },
+    {
+        "lang": "Fiji Hindi"
+    },
+    {
+        "lang": "Burmese"
+    },
+    {
+        "lang": "Mohawk"
+    },
+    {
+        "lang": "Wolof"
+    },
+    {
+        "lang": "Tigrinya"
+    },
+    {
+        "lang": "Tonga (Tonga Islands)"
+    },
+    {
+        "lang": "Laz"
+    },
+    {
+        "lang": "Old Aramaic (up to 700 BCE)"
+    },
+    {
+        "lang": "Ganda"
+    },
+    {
+        "lang": "Bodo (India)"
+    },
+    {
+        "lang": "Old Norse"
+    },
+    {
+        "lang": "Hmong Daw"
+    },
+    {
+        "lang": "Hakka Chinese"
+    },
+    {
+        "lang": "Orizaba Nahuatl"
+    },
+    {
+        "lang": "Guerrero Nahuatl"
+    },
+    {
+        "lang": "Buriat"
+    },
+    {
+        "lang": "Aymara"
+    },
+    {
+        "lang": "Venetian"
+    },
+    {
+        "lang": "Igbo"
+    },
+    {
+        "lang": "Tokelau"
+    },
+    {
+        "lang": "Bambara"
+    },
+    {
+        "lang": "Khasi"
+    },
+    {
+        "lang": "Cebuano"
+    },
+    {
+        "lang": "Louisiana Creole"
+    },
+    {
+        "lang": "Pulaar"
+    },
+    {
+        "lang": "Samoan"
+    },
+    {
+        "lang": "Gagauz"
+    },
+    {
+        "lang": "Lingua Franca Nova"
+    },
+    {
+        "lang": "Aragonese"
+    },
+    {
+        "lang": "Umbundu"
+    },
+    {
+        "lang": "Tuvinian"
+    },
+    {
+        "lang": "Khakas"
+    },
+    {
+        "lang": "Ojibwa"
+    },
+    {
+        "lang": "Cuyonon"
+    },
+    {
+        "lang": "Urhobo"
+    },
+    {
+        "lang": "Coastal Kadazan"
+    },
+    {
+        "lang": "Pampanga"
+    },
+    {
+        "lang": "Sardinian"
+    },
+    {
+        "lang": "Lombard"
+    },
+    {
+        "lang": "Swabian"
+    },
+    {
+        "lang": "Moksha"
+    },
+    {
+        "lang": "Gilbertese"
+    },
+    {
+        "lang": "Sindhi"
+    },
+    {
+        "lang": "Tsonga"
+    },
+    {
+        "lang": "Southern Sotho"
+    },
+    {
+        "lang": "Zaza"
+    },
+    {
+        "lang": "Tswana"
+    },
+    {
+        "lang": "Palauan"
+    },
+    {
+        "lang": "Somali"
+    },
+    {
+        "lang": "Emilian"
+    },
+    {
+        "lang": "Adyghe"
+    },
+    {
+        "lang": "Assamese"
+    },
+    {
+        "lang": "Oriya (macrolanguage)"
+    },
+    {
+        "lang": "Kadazan Dusun"
+    },
+    {
+        "lang": "Choctaw"
+    },
+    {
+        "lang": "North Moluccan Malay"
+    },
+    {
+        "lang": "Kamba (Kenya)"
+    },
+    {
+        "lang": "Niuean"
+    },
+    {
+        "lang": "Sango"
+    },
+    {
+        "lang": "Iloko"
+    },
+    {
+        "lang": "Kara-Kalpak"
+    },
+    {
+        "lang": "Nigerian Fulfulde"
+    },
+    {
+        "lang": "Central Huasteca Nahuatl"
+    },
+    {
+        "lang": "Ho"
+    },
+    {
+        "lang": "Iban"
+    },
+    {
+        "lang": "Garhwali"
+    },
+    {
+        "lang": "Sundanese"
+    },
+    {
+        "lang": "Waray (Philippines)"
+    },
+    {
+        "lang": "Tagal Murut"
+    },
+    {
+        "lang": "Papiamento"
+    },
+    {
+        "lang": "Moroccan Arabic"
+    },
+    {
+        "lang": "Keningau Murut"
+    },
+    {
+        "lang": "Kashubian"
+    },
+    {
+        "lang": "Pangasinan"
+    },
+    {
+        "lang": "Corsican"
+    },
+    {
+        "lang": "Tarifit"
+    },
+    {
+        "lang": "Kekchí"
+    },
+    {
+        "lang": "Karachay-Balkar"
+    },
+    {
+        "lang": "Assyrian Neo-Aramaic"
+    },
+    {
+        "lang": "Balinese"
+    },
+    {
+        "lang": "Swati"
+    },
+    {
+        "lang": "Tuvalu"
+    },
+    {
+        "lang": "Morisyen"
+    },
+    {
+        "lang": "Tahitian"
+    },
+    {
+        "lang": "Baybayanon"
+    },
+    {
+        "lang": "Central Bikol"
+    },
+    {
+        "lang": "Hmong Njua"
+    },
+    {
+        "lang": "Nauru"
+    },
+    {
+        "lang": "Tase Naga"
+    },
+    {
+        "lang": "Gulf Arabic"
+    },
+    {
+        "lang": "K'iche"
+    },
+    {
+        "lang": "Minangkabau"
+    },
+    {
+        "lang": "Temuan"
+    },
+    {
+        "lang": "Madurese"
+    },
+    {
+        "lang": "Banjar"
+    },
+    {
+        "lang": "Maithili"
+    },
+    {
+        "lang": "Jinyu Chinese"
+    },
+    {
+        "lang": "Gothic"
+    },
+    {
+        "lang": "Xiang Chinese"
+    },
+    {
+        "lang": "Gan Chinese"
+    },
+    {
+        "lang": "Talossan"
+    },
+    {
+        "lang": "Dutton World Speedwords"
+    },
+    {
+        "lang": "Láadan"
+    },
+    {
+        "lang": "Afrihili"
+    },
+    {
+        "lang": "Samogitian"
+    },
+    {
+        "lang": "Karelian"
+    },
+    {
+        "lang": "Veps"
+    },
+    {
+        "lang": "Rusyn"
+    },
+    {
+        "lang": "Talysh"
+    },
+    {
+        "lang": "Mi'kmaq"
+    },
+    {
+        "lang": "Extremaduran"
+    },
+    {
+        "lang": "Ingrian"
+    },
+    {
+        "lang": "Southern Sami"
+    },
+    {
+        "lang": "Jamaican Creole English"
+    },
+    {
+        "lang": "Central Mnong"
+    },
+    {
+        "lang": "Mirandese"
+    },
+    {
+        "lang": "Komi-Zyrian"
+    },
+    {
+        "lang": "Komi-Permyak"
+    },
+    {
+        "lang": "Bislama"
+    },
+    {
+        "lang": "Eastern Canadian Inuktitut"
+    },
+    {
+        "lang": "Rundi"
+    },
+    {
+        "lang": "Evenki"
+    },
+    {
+        "lang": "Central Okinawan"
+    },
+    {
+        "lang": "Manchu"
+    },
+    {
+        "lang": "Uab Meto"
+    },
+    {
+        "lang": "Old Turkish"
+    },
+    {
+        "lang": "Kashmiri"
+    },
+    {
+        "lang": "Gheg Albanian"
+    },
+    {
+        "lang": "Aklanon"
+    },
+    {
+        "lang": "Yucateco"
+    },
+    {
+        "lang": "Tachawit"
+    },
+    {
+        "lang": "Kven Finnish"
+    },
+    {
+        "lang": "Gronings"
+    },
+    {
+        "lang": "Fijian"
+    },
+    {
+        "lang": "Tahaggart Tamahaq"
+    },
+    {
+        "lang": "Standard Moroccan Tamazight"
+    },
+    {
+        "lang": "Guadeloupean Creole French"
+    },
+    {
+        "lang": "Cayuga"
+    },
+    {
+        "lang": "Mingrelian"
+    },
+    {
+        "lang": "Tigre"
+    },
+    {
+        "lang": "Dhivehi"
+    },
+    {
+        "lang": "Ligurian"
+    },
+    {
+        "lang": "Rapanui"
+    },
+    {
+        "lang": "Hunsrik"
+    },
+    {
+        "lang": "Chinese Pidgin English"
+    },
+    {
+        "lang": "Northeastern Thai"
+    },
+    {
+        "lang": "Ga"
+    },
+    {
+        "lang": "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
+    },
+    {
+        "lang": "Sichuan Yi"
+    },
+    {
+        "lang": "Latgalian"
+    },
+    {
+        "lang": "Brithenig"
+    },
+    {
+        "lang": "Classical Syriac"
+    },
+    {
+        "lang": "Erromintxela"
+    },
+    {
+        "lang": "Goan Konkani"
+    },
+    {
+        "lang": "Chagatai"
+    },
+    {
+        "lang": "Old Spanish"
+    },
+    {
+        "lang": "Saterfriesisch"
+    },
+    {
+        "lang": "Northern Frisian"
+    },
+    {
+        "lang": "Old French (842-ca. 1400)"
+    },
+    {
+        "lang": "Nyunga"
+    },
+    {
+        "lang": "Tonga (Zambia)"
+    },
+    {
+        "lang": "Newari"
+    },
+    {
+        "lang": "Phoenician"
+    },
+    {
+        "lang": "Jewish Palestinian Aramaic"
+    },
+    {
+        "lang": "Rendille"
+    },
+    {
+        "lang": "Drents"
+    },
+    {
+        "lang": "Chinook jargon"
+    },
+    {
+        "lang": "Pali"
+    },
+    {
+        "lang": "Southern Subanen"
+    },
+    {
+        "lang": "Baluchi"
+    },
+    {
+        "lang": "Northern Haida"
+    },
+    {
+        "lang": "Southern Haida"
+    },
+    {
+        "lang": "Mikasuki"
+    },{
+        "lang": "South Levantine Arabic"
+    },{
+        "lang": "Karakhanid"
+    },{
+        "lang": "Pahlavi"
+    },{
+        "lang": "Plains Cree"
+    },{
+        "lang": "Manipuri"
+    },{
+        "lang": "Lushootseed"
+    },{
+        "lang": "Libyan Arabic"
+    },{
+        "lang": "Tohono O'odham"
+    },{
+        "lang": "Southern Kurdish"
+    },{
+        "lang": "Old Frisian"
+    },{
+        "lang": "Nuer"
+    },
+    {
+        "lang": "Kirmanjki (individual language)"
+    },{
+        "lang": "Dimli (individual language)"
+    },{
+        "lang": "Qashqa'i"
+    },{
+        "lang": "Southern Altai"
+    },{
+        "lang": "Mahasu Pahari"
+    },{
+        "lang": "Turkic Khalaj"
+    },{
+        "lang": "Creek"
+    },{
+        "lang": "Sranan Tongo"
+    },{
+        "lang": "Wayuu"
+    },{
+        "lang": "Limburgan"
+    },{
+        "lang": "Zeeuws"
+    },
+    {
+        "lang": "Tachelhit"
+    },{
+        "lang": "Mono (USA)"
+    },{
+        "lang": "Berom"
+    },{
+        "lang": "Santali"
+    },{
+        "lang": "Silesian"
+    },{
+        "lang": "Interglossa"
+    }
+]

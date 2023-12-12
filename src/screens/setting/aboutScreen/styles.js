@@ -14,4 +14,24 @@ export default StyleSheet.create({
     // justifyContent: "center",
     // alignItems: "center"
   },
+  box: {
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: width *0.9,
+    paddingVertical: 10
+  },
+  txtlabel: {
+    fontFamily: fontFamily.Regular,
+    fontSize: 16
+  },
+  txtvertion: {
+    color: colors.label,
+    fontFamily: fontFamily.Regular
+  },
+  icons:{
+    width: 20,
+    height: 20
+  },
 });
