@@ -72,4 +72,5 @@ export const icons = {
   arrowRight: require(`../../assets/images/icons/next.png`),
   warn: require(`../../assets/images/icons/warning.png`),
   noti: require(`../../assets/images/icons/notificate.png`),
+  arrowdodwn: require(`../../assets/images/icons/down.png`),
 };

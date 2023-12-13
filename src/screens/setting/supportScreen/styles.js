@@ -10,8 +10,20 @@ export default StyleSheet.create({
     // minHeight: '72%',
     position: "relative",
     backgroundColor: colors.base,
-    paddingHorizontal: 20
+    padding: 20
     // justifyContent: "center",
     // alignItems: "center"
+  },
+  arrow: {
+    width: 20,
+    height: 20
+  },
+  txtrender: {
+    fontFamily: fontFamily.Medium
+  },
+  txtcontent: {
+    fontFamily: fontFamily.Regular,
+    fontSize: 14,
+    color: colors.label,
   },
 });
